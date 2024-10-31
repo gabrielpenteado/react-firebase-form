@@ -1,5 +1,5 @@
 <h1 align="center">
-   <strong>React-form</strong>
+   <strong>React-firebase-form</strong>
 </h1>
 
 <h2 align="center">
