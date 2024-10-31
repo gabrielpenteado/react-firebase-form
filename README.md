@@ -7,13 +7,13 @@
 </h2>
 
 <div align="center">  
-  <img src="https://img.shields.io/github/license/gabrielpenteado/react-form?color=informational&style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/github/license/gabrielpenteado/react-firebase-form?color=informational&style=flat-square" alt="license"/>
 
-  <img src="https://img.shields.io/static/v1?label=npm&message=v9.5.0&color=informational&style=flat-square" alt="react version">
+  <img src="https://img.shields.io/static/v1?label=npm&message=v9.5.0&color=informational&style=flat-square" alt="npm version">
 
   <img src="https://img.shields.io/static/v1?label=react&message=v18.2.0&color=informational&style=flat-square" alt="react version">
   
-  <img src="https://img.shields.io/static/v1?label=firebase&message=v9.18.0&color=informational&style=flat-square" alt="react version">
+  <img src="https://img.shields.io/static/v1?label=firebase&message=v9.18.0&color=informational&style=flat-square" alt="firebase version">
 
   <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=008000&up_message=online&url=https%3A%2F%2Freact-firebase-form.vercel.app" alt="website status">
 </div>
@@ -74,7 +74,7 @@
 </div>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/gabrielpenteado/react-form/main/src/assets/reactform.png"> 
+    <img src="https://raw.githubusercontent.com/gabrielpenteado/react-firebase-form/main/src/assets/reactform.png"> 
 </p>
 
 <div align="center">
@@ -82,10 +82,10 @@
     <thead>
       <tr>
         <th style="text-align: center">
-          <a href="https://raw.githubusercontent.com/gabrielpenteado/react-form/main/src/assets/light.jpg">Light-theme</a>
+          <a href="https://raw.githubusercontent.com/gabrielpenteado/react-firebase-form/main/src/assets/light.jpg">Light-theme</a>
         </th>
         <th style="text-align: center">
-          <a href="https://raw.githubusercontent.com/gabrielpenteado/react-form/main/src/assets/dark.jpg">Dark-theme</a>
+          <a href="https://raw.githubusercontent.com/gabrielpenteado/react-firebase-form/main/src/assets/dark.jpg">Dark-theme</a>
         </th>  
       </tr>
     </thead>
@@ -168,7 +168,7 @@ The foundation of the open source community are the contributions, them inspire 
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/gabrielpenteado/react-form/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/gabrielpenteado/react-firebase-form/blob/main/LICENSE.md) file for details.
 <br>
 <br>
 
