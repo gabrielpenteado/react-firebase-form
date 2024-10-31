@@ -1,5 +1,5 @@
 <h1 align="center">
-   <strong>React-firebase-form</strong>
+   <strong>React-Firebase-form</strong>
 </h1>
 
 <h2 align="center">
@@ -126,7 +126,7 @@ To start using this <strong>React form</strong> follow the instructions below.
 ### Installation
 
 1. Clone the repository<br>
-   `git clone https://github.com/gabrielpenteado/react-form`
+   `git clone https://github.com/gabrielpenteado/react-firebase-form`
 
 2. Access the project folder in the terminal
 
